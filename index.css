@@ -1,4 +1,44 @@
-p{
-    color : blue
-            
+#heading{
+    text-align: center;
+    font-size: 40;
+    font-style: italic;
+    margin-left: 150px;
+    
+}
+
+#intro{
+    font-style: italic;
+    font-size: 35;
+    margin-left: 200;
+    text-decoration: underline;
+    
+
+}
+
+#blog{
+    text-align: center;
+    
+}
+body{
+    background-image: url('./baa.avif');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.points{
+    font-size: 30;
+    margin-left: 80px;
+    font-style: italic;
+    
+}
+#head2{
+    font-weight: bold;
+    margin-left: 70px;
+    font-size: 28;
+    font-style: italic;
+}
+.des{
+    font-style: italic;
+    font-size: 28;
 }
